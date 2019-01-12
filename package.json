@@ -4,8 +4,8 @@
   "description": "",
   "main": "server.js",
   "engines": {
-    "npm": ">=3",
-    "node": "10.15"
+    "npm": "6.4.1",
+    "node": "10.14.1"
   },
   "scripts": {
     "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
