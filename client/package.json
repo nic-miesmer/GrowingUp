@@ -4,7 +4,7 @@
   "private": true,
   "engines": {
     "npm": "6.4.1",
-    "node":"10.14.1"
+    "node": "10.14.1"
   },
   "proxy": "http://localhost:3001/",
   "dependencies": {
